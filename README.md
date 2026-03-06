@@ -3,6 +3,11 @@
 A professional, visual Streamlit application designed for spiritual seekers to track and analyze their **Kundalini energy** flow across the seven chakras.
 
 ---
+ You can now view your Streamlit app in your browser.
+  Local URL: http://localhost:8501
+  Network URL: http://10.17.247.253:8501
+  External URL: http://74.220.48.240:8501
+
 
 ## ✨ Features
 
@@ -66,3 +71,4 @@ The dashboard works by uploading a CSV file. For the best experience (including 
 
 ## 🧘 Made for Seekers
 Designed with ❤️ for tracking spiritual growth and energy alignment.
+
