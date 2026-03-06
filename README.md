@@ -5,10 +5,8 @@ A professional, visual Streamlit application designed for spiritual seekers to t
 ---
 ## About
 
- You can now view your Streamlit app in your browser.
-  Local URL: http://localhost:8501
-  Network URL: http://10.17.247.253:8501
-  External URL: http://74.220.48.240:8501
+Author/Developer : A VINAY KUMAR 
+
 primary URL https://dashboard-for-kundalini-analytics-and.onrender.com
 ---
 ## ✨ Features
@@ -41,9 +39,12 @@ streamlit run dashboard.py
 ```
 
 ---
-
+ You can now view your Streamlit app in your browser.
+  Local URL: http://localhost:8501
+  Network URL: http://10.17.247.253:8501
+  External URL: http://74.220.48.240:8501
 ## 📄 Data Format
-
+---
 The dashboard works by uploading a CSV file. For the best experience (including specialized chakra analysis), your CSV should ideally contain a **'Chakra'** column with any of the following values:
 
 - **Root** (Grounding)
@@ -73,6 +74,7 @@ The dashboard works by uploading a CSV file. For the best experience (including 
 
 ## 🧘 Made for Seekers
 Designed with ❤️ for tracking spiritual growth and energy alignment.
+
 
 
 
