@@ -10,7 +10,7 @@ A professional, visual Streamlit application designed for spiritual seekers to t
 - Working primary URL : https://dashboard-for-kundalini-analytics-and.onrender.com
 - Copy paste the url in browser to view and use . it may take some time to load the dashboard.
 - LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
-- GitHub : {{Avinaykumar26}{https://github.com/Avinaykumar26}}
+- GitHub : https://github.com/Avinaykumar26
 ---
 ## ✨ Features
 
@@ -77,6 +77,7 @@ The dashboard works by uploading a CSV file. For the best experience (including 
 
 ## 🧘 Made for Seekers
 Designed with ❤️ for tracking spiritual growth and energy alignment.
+
 
 
 
